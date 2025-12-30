@@ -1,4 +1,5 @@
 Aplicação Mobile para Acessibilidade (TEA)
+
 Projeto acadêmico desenvolvido em grupo como Trabalho de Conclusão de Curso (TCC). Repositório criado para fins de portfólio pessoal.
 
 Sobre o Projeto
